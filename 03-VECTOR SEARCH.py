@@ -52,7 +52,7 @@
 
 # COMMAND ----------
 
-# MAGIC %run ./resources/00-init
+# MAGIC %run ./RESOURCES/INIT
 
 # COMMAND ----------
 
