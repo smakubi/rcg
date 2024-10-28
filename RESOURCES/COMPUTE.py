@@ -20,8 +20,8 @@ CLUSTER_CONFIG = {
         "availability": "ON_DEMAND_AZURE",
         "spot_bid_max_price": -1
     },
-    "node_type_id": "Standard_D32ads_v5",
-    "driver_node_type_id": "Standard_D32ads_v5",
+    "node_type_id": "Standard_D3_v3",
+    "driver_node_type_id": "Standard_D3_v3",
     "custom_tags": {
         "ResourceClass": "SingleNode"
     },
